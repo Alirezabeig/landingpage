@@ -1,0 +1,153 @@
+body a {
+    font-family: "Montserrat";
+}
+body p {
+    font-family: "Open Sans";
+}
+
+body h1 {
+    font-family: "Montserrat";
+}
+body h2 {
+    font-family: "Montserrat";
+}
+
+body h3 {
+    font-family: "Montserrat";
+}
+body h4 {
+    font-family: "Montserrat";
+}
+
+#title {
+  background-color: #fff;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+
+#title a {
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 20px;
+  font-family: "Open Sans";
+
+}
+
+
+#title h1 {
+  color: #000000;
+  font-size: 40px;
+  margin-left: 20px;
+
+}
+
+
+
+#title .but{
+  padding: 2% 12%;
+}
+
+#title .register {
+  margin-right: -30px;
+}
+
+.container-fluids{
+  padding: 0% 15%;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+#tit{
+
+  margin-top: 10px;
+  padding : 3% 8%;
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 40px;
+  background-color: #000;
+}
+
+#tit a{
+  color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+.nav-item {
+  padding: 0% 15px;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 100%;
+}
+
+#numbers {
+  padding: 2% 15% 1%;
+  font-size: 30px;
+}
+
+#numbers img {
+  margin-bottom: 30px;
+}
+
+
+
+.video {
+    width: 100%;
+    height: 100%;
+    border: 25px;
+    border-radius: 35px;
+    border-color: #000;
+
+    border-style: solid;
+}
+
+.wrapper{
+    display:table;
+    width:auto;
+    position:relative;
+    width:60%;
+    display: block;
+margin: 0 auto;
+}
+.playpause {
+    background-image:url("../images/play.png");
+    background-repeat:no-repeat;
+    width:20%;
+    height:20%;
+    position:absolute;
+    left:0%;
+    right:0%;
+    top:0%;
+    bottom:0%;
+    margin:auto;
+    background-size:contain;
+    background-position: center;
+}
+
+.numbers-box {
+  text-align: center;
+}
+
+#support {
+  margin-top: 50px;
+  padding : 7% 15%;
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 50px;
+  background-color: #F2F2F2;
+}
+
+#footer {
+  padding : 1% 10%;
+}
